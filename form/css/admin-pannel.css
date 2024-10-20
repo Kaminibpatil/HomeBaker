@@ -1,0 +1,39 @@
+.sidebar{
+    background-color: #181824;
+    height: 100%;
+    padding: 0;
+      position: fixed; 
+    width: 258px;
+top: 0;
+left: 0;
+
+   
+    
+}
+
+.sidebar ul li a{
+    color:  #8e94a9;
+    font-family:"Poppins", sans-serif ;
+    font-weight: 700;
+    margin-top: 9px;
+    margin-left: 15px;
+    
+}
+.dash-icons{
+    color: #44ce42;
+    height: 28px;
+    width: 29px;
+    margin-top: 5px;
+    margin-left: 5px;
+    font-size: 19px !important;
+    background: rgb(194 244 219 / 12%);
+    border-radius: 5px;
+    line-height: 26px !important;
+    text-align: center;
+}
+.table-style{
+    font-family:'Poppins', sans-serif;
+    font-weight: bold;
+    font-size:18px !important;
+}
+
